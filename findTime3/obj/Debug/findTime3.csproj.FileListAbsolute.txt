@@ -1,0 +1,14 @@
+c:\users\andrew\documents\visual studio 2015\Projects\findTime3\findTime3\bin\Debug\findTime3.exe.config
+c:\users\andrew\documents\visual studio 2015\Projects\findTime3\findTime3\obj\Debug\findTime3.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2015\Projects\findTime3\findTime3\obj\Debug\findTime3.Form1.resources
+c:\users\andrew\documents\visual studio 2015\Projects\findTime3\findTime3\obj\Debug\findTime3.NewTask.resources
+c:\users\andrew\documents\visual studio 2015\Projects\findTime3\findTime3\obj\Debug\findTime3.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2015\Projects\findTime3\findTime3\obj\Debug\findTime3.UserLogin.resources
+c:\users\andrew\documents\visual studio 2015\Projects\findTime3\findTime3\obj\Debug\findTime3.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2015\Projects\findTime3\findTime3\bin\Debug\findTime3.exe
+c:\users\andrew\documents\visual studio 2015\Projects\findTime3\findTime3\bin\Debug\findTime3.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\findTime3\findTime3\obj\Debug\findTime3.exe
+c:\users\andrew\documents\visual studio 2015\Projects\findTime3\findTime3\obj\Debug\findTime3.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\findTime3\findTime3\obj\Debug\findTime3.FreeTime.resources
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\findTime3\findTime3\bin\Debug\Database1.mdf
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\findTime3\findTime3\bin\Debug\Database1_log.ldf
